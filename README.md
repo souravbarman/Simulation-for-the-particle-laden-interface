@@ -1,4 +1,4 @@
-# Simulation-for-the-particle-laden-interface
+# Simulation of the Colloidal Particle at Oil-Water Interface
 Interfacial particles, evidently microparticles, interact with each other in different ways, which fall into three unique categories: electrostatic, capillary and Casimir. Electrostatic and capillary effects usually couple together through the deformability of the fluid interface. Levine et al., initially pioneered on this field from theoretical and experimental point of view. In my study, I will focus our concentration on electrostatic and capillary interaction.
 
 #Approach
